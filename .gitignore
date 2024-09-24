@@ -114,3 +114,6 @@ __pycache__
 # project
 svgs/
 build/
+dist/
+.idea
+.vscode
